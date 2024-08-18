@@ -42,7 +42,7 @@
     }
     
     .last-name {
-      font-weight: 300;
+      font-weight: 700;
     }
     
     .contact-info {
@@ -92,6 +92,7 @@
     
     .section__list-item {
       margin-bottom: 40px;
+      
     }
     
     .section__list-item:last-of-type {
